@@ -1,0 +1,3 @@
+api_key: your-api-key-here
+client: https://api.labelbox.com/graphql
+default_dataset_id: cjxnieuf9jvvw0721762hobwk
